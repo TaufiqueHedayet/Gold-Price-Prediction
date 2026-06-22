@@ -41,6 +41,6 @@ The models were trained on over 3,700 structured historical data arrays using a 
 │   └── trained_models/             # Production weights storage directory (.h5 neural network weights)
 ├── requirements.txt                # System dependency list for swift package installation
 ├── .gitignore                      # Git configuration to exclude localized heavy files and binaries
-└── README.md                       
+└── README.md                       # Structural project summary and installation index
 
 
