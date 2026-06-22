@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / dll files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPYNB tracking arrays
+.ipynb_checkpoints
+
+# Virtual Environments
+venv/
+ENV/
+env/
+
+# Heavy Machine Learning Weights and Serialized Files
+*.h5
+*.pkl
+*.zip
